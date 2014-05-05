@@ -5,3 +5,4 @@ project/plugins/target
 *.class
 *.jar
 .metadata
+.cache
