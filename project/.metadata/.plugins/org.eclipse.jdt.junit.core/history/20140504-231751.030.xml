@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testrun name="CountChangeSuite" project="progfun-recfun" tests="4" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="recfun.CountChangeSuite" incomplete="true">
-    <testcase name="countChange: example given in instructions" classname="recfun.CountChangeSuite" incomplete="true"/>
-    <testcase name="countChange: sorted CHF" classname="recfun.CountChangeSuite" incomplete="true"/>
-    <testcase name="countChange: no pennies" classname="recfun.CountChangeSuite" incomplete="true"/>
-    <testcase name="countChange: unsorted CHF" classname="recfun.CountChangeSuite" incomplete="true"/>
-  </testsuite>
-</testrun>
